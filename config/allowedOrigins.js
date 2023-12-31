@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://technotes.onrender.com',
+    'https://phanmem-ui.onrender.com',
     'http://localhost:3000'
 ]
 
